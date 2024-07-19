@@ -1,0 +1,3 @@
+Hey, I'm a file you want to encrypt.
+
+Please don't make this a horror show.
